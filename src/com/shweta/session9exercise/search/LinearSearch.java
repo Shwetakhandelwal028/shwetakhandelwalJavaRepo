@@ -1,4 +1,4 @@
-package com.shweta.session10exercise.search;
+package com.shweta.session9exercise.search;
 
 import java.util.Scanner;
 
